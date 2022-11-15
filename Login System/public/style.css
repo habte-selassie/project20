@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url('/assets/imagei.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+.btn.btn-sucess{
+    padding: 3.9em 2em;
+}
+form{
+    padding: 0em 3em;
+}
+#login.title > span{
+    font-size: .8em;
+}
